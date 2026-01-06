@@ -1,0 +1,7 @@
+{
+  "name": "Cambridge Fun English Quest",
+  "description": "An interactive Cambridge English Starters (Pre-A1) level exam for Grade 1 students, featuring characters like Tom and Anna with AI-powered voices.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
